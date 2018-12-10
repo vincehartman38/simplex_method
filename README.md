@@ -16,7 +16,7 @@ x + y - 3z <= 10
 3x - 2y -4z <= 9  
 Maximize: -x - 6y - 3z  
 
-You would enter the following within the input prompt:
+You would enter the following within the input prompt:  
 3 3  
 1 1 -3  
 -5 10 0  
