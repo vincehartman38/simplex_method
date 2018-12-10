@@ -3,12 +3,12 @@ Python implementation of the two phase simplex method within linear programming 
 
 The algorithm will provide one of three solutions - a bounded solution, no solution, or an infinite (unbounded) solution.
 
-The program takes the following variables:
-int n: number of inequality equations
-int m: total variables
-list a: coefficients of inequality equations in a list of list
-list b: maximums for each of the inqualities
-list c: coefficients of the optimization function
+The program takes the following variables:  
+int n: number of inequality equations  
+int m: total variables  
+list a: coefficients of inequality equations in a list of list  
+list b: maximums for each of the inqualities  
+list c: coefficients of the optimization function  
 
 Example Problem:  
 x + y - 3z <= 10  
