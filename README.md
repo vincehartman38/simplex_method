@@ -10,7 +10,7 @@ list a: coefficients of inequality equations in a list of list
 list b: maximums for each of the inqualities
 list c: coefficients of the optimization function
 
-Example Problem:
+Example Problem:  
 x + y - 3z <= 10  
 5x + 10y <= -50  
 3x - 2y -4z <= 9  
